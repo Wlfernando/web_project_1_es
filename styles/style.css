@@ -223,6 +223,7 @@
 
 .section-title_theme_dark {
   margin-top: 90px;
+  color: white;
 }
 
 .table__cell_theme_dark {
@@ -230,10 +231,6 @@
   color: white;
   margin-right: 0;
   margin-top: 80px;
-}
-
-.section-title_theme_dark {
-  color: white;
 }
 
 .section-subtitle-them-dark {
@@ -255,12 +252,11 @@
   padding-bottom: 40px;
   background-color: #1f1f1f;
   color: white;
-
 }
 
 .footer__columns {
   width: 90%;
-  display:flex;
+  display: flex;
   justify-content: space-between;
   margin: auto;
 }
@@ -275,7 +271,7 @@
 
 .footer__column_content_copyright {
   flex-basis: 711px;
-  justify-content:space-between;
+  justify-content: space-between;
 }
 
 .logo_place_footer {
@@ -305,11 +301,10 @@
   font-weight: normal;
 }
 
-.footer__list{
+.footer__list {
   list-style-type: none;
   padding-top: 20px;
 }
-
 
 .footer__column-link {
   line-height: 30px;
