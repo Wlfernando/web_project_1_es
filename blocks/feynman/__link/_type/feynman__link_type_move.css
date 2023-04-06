@@ -1,0 +1,7 @@
+.feynman__link_type_move {
+  transition: translate .2s linear;
+}
+
+.feynman__link_type_move:hover {
+  translate: 10px;
+}

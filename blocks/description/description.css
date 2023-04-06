@@ -1,4 +1,5 @@
-.content .description {
-  margin-top: 100px;
-  margin-bottom: 100px;
+.description {
+  order: 1;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }

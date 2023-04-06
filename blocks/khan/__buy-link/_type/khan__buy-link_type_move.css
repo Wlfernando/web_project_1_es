@@ -1,0 +1,7 @@
+.khan__buy-link_type_move {
+  transition: translate .2s linear;
+}
+
+.khan__buy-link_type_move:hover {
+  translate: 10px;
+}
