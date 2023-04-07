@@ -1,9 +1,0 @@
-.resources__logo_type_spot {
-  transition: opacity .2s linear;
-  transition: box-shadow .2s linear;
-}
-
-.resources__logo_type_spot:hover {
-  opacity: .8;
-  box-shadow: 5px 5px 3px #f2f2f2;
-}

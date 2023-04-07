@@ -3,4 +3,9 @@
   font-size: 30px;
   font-weight: normal;
   text-decoration-line: none;
+  transition: translate .2s linear;
+}
+
+.khan__buy-link:hover {
+  translate: 10px;
 }
