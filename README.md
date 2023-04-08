@@ -1,4 +1,4 @@
-# Pagina web:
+# Página web:
 ## Aprender a aprender
 
 El presente proyecto se encuentra en constante crecimiento a raíz de ser objeto de práctica.  

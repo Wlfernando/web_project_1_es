@@ -1,4 +1,4 @@
-.description { /*mi foco de pensamiento fue usar el menor numero de propiedades pero consiguiendo los mismos resultados. Asumire que mientras siga creciendo el proyecto entendere porque se usa tanto el flexbox*/
+.description {
   order: 1;
   padding-top: 100px;
   display: flex;
