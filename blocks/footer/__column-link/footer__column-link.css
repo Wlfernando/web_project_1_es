@@ -3,5 +3,6 @@
   font-size: 18px;
   font-weight: normal;
   color: inherit;
-  text-decoration-line: inherit;
+  -webkit-text-decoration-line: inherit;
+          text-decoration-line: inherit;
 }

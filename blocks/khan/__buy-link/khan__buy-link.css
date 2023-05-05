@@ -3,7 +3,8 @@
   line-height: 42px;
   font-size: 30px;
   font-weight: normal;
-  text-decoration-line: none;
+  -webkit-text-decoration-line: none;
+          text-decoration-line: none;
   transition: translate .2s linear;
 }
 

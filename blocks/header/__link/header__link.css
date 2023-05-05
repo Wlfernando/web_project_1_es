@@ -1,5 +1,6 @@
 .header__link {
-  text-decoration-line: none;
+  -webkit-text-decoration-line: none;
+          text-decoration-line: none;
   transition: opacity .2s linear;
   color: #2f80ed;
   display: flex;

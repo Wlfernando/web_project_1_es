@@ -3,5 +3,6 @@
   height: 316px;
   padding-top: 50px;
   display: flex;
-  column-gap: 20px;
+  -moz-column-gap: 20px;
+       column-gap: 20px;
 }

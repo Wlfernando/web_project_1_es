@@ -6,5 +6,5 @@
   width: inherit;
   display: flex;
   justify-content: center;
-  align-items: center; /* no entendi porque esta propiedad si ya estamos usando justify*/
+  align-items: center;
 }
